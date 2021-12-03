@@ -1,0 +1,12 @@
+.img-list {
+  list-style: none;
+  margin: 0;
+}
+
+.list-item  {
+  padding-bottom: 20px;
+}
+
+.post-list-item {
+  padding-bottom: 5px;
+}
